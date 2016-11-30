@@ -3,7 +3,6 @@
 *.com
 *.class
 *.dll
-*.exe
 *.o
 *.so
 
@@ -30,6 +29,7 @@
 ######################
 .DS_Store
 .DS_Store?
+.ini
 ._*
 .Spotlight-V100
 .Trashes
